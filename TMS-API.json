@@ -4,11 +4,11 @@
     "img": "10-22-24_S7_81_4VND9A3940NV_Cream_CZ_MC_14-35-35_28686_SG.webp",
     "title": "Fashio Man",
     "describtion": "New style, suitable to all adoult and men",
-    "first-star": "bi-star-fill",
-    "second-star": "bi-star-fill",
-    "third-star": "bi-star-fill",
-    "fourth-star": "bi-star-half",
-    "fifth-star": "bi-star",
+    "first_star": "bi-star-fill",
+    "second_star": "bi-star-fill",
+    "third_star": "bi-star-fill",
+    "fourth_star": "bi-star-half",
+    "fifth_star": "bi-star",
     "price": 5.4
   }
 ]
