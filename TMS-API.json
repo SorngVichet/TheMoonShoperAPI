@@ -66,7 +66,7 @@
     "second_star": "fill",
     "third_star": "fill",
     "fourth_star": "fill",
-    "fifth_star": "haft",
+    "fifth_star": "half",
     "price": 120
   },
   {
@@ -178,7 +178,7 @@
     "second_star": "fill",
     "third_star": "fill",
     "fourth_star": "fill",
-    "fifth_star": "haft",
+    "fifth_star": "half",
     "price": 208
   },
   {
@@ -233,7 +233,7 @@
     "first_star": "fill",
     "second_star": "fill",
     "third_star": "fill",
-    "fourth_star": "haft",
+    "fourth_star": "half",
     "fifth_star": "",
     "price": 68.97
   },
@@ -303,7 +303,7 @@
     "first_star": "fill",
     "second_star": "fill",
     "third_star": "fill",
-    "fourth_star": "haft",
+    "fourth_star": "half",
     "fifth_star": "",
     "price": 67.97
   },
@@ -331,7 +331,7 @@
     "first_star": "fill",
     "second_star": "fill",
     "third_star": "fill",
-    "fourth_star": "haft",
+    "fourth_star": "half",
     "fifth_star": "",
     "price": 60.97
   },
@@ -373,7 +373,7 @@
     "first_star": "fill",
     "second_star": "fill",
     "third_star": "fill",
-    "fourth_star": "haft",
+    "fourth_star": "half",
     "fifth_star": "",
     "price": 59.97
   },
@@ -387,7 +387,7 @@
     "first_star": "fill",
     "second_star": "fill",
     "third_star": "fill",
-    "fourth_star": "haft",
+    "fourth_star": "half",
     "fifth_star": "",
     "price": 59.97
   }
